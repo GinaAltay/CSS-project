@@ -1,0 +1,44 @@
+body{
+ 
+ background-image: url('tatto\ studio.png');
+ background-size:cover;
+}
+div a{
+  color:rgb(33, 17, 17);
+
+
+}
+div :hover{
+  color:#8829e0;
+  size: 20px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: blueviolet;
+  border-width: 5px;
+  width: 5%;
+}
+
+h3{
+  color:blueviolet;
+  font-size: 30px;
+font-style: italic;
+}
+#site{
+  color: blue;
+  border-spacing: 40px;
+}
+th{
+ color: blueviolet;
+font-style: italic;
+font-size: 15px;
+list-style:circle;
+}
+
+h4{
+  color:rgb(108, 71, 146);
+  font-size: 40px;
+  font-style: italic;
+
+}
